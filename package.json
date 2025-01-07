@@ -10,6 +10,7 @@
     "react"
   ],
   "private": false,
+  "repository": "https://github.com/YiHyeongRae/gridsify",
   "type": "module",
   "main": "dist/index.umd.cjs",
   "module": "dist/index.js",
