@@ -1,6 +1,6 @@
 {
   "name": "gridsify",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "react + vite data grid generator",
   "license": "MIT",
   "keywords": [
